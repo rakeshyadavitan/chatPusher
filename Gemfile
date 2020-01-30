@@ -34,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 # Reduces boot times through caching; required in config/boot.rb
-gem 'bootstrap', '~> 4.1.0'
+gem 'bootstrap'
 gem 'jquery-rails'
 gem 'pusher'
 gem 'figaro'
